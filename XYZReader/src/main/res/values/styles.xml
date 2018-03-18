@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary" tools:ignore="NewApi">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark" tools:ignore="NewApi">@color/theme_primary_dark</item>
+        <item name="android:colorAccent" tools:ignore="NewApi">@color/theme_accent</item>
+        <item name="android:windowContentTransitions" tools:ignore="NewApi">true</item>
+    </style>
+
+
+
+</resources>

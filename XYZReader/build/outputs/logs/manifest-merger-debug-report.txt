@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [com.android.support:support-v13:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/166b6b70f069ac048f6d04e3855277b9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/ca4ef2fe12a34bd3d20379512d9fd9d5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/4e6109373eb237ae0f625f568832133f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/c9865c7587c09d414d41da0d9e10a0a7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/830c363e813d3ed9283b8d5b69a19f13/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/711429c810cba6b5f3761bbb129c71cc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/50ac9de0b741b5f28234613fda8adeb8/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/04c7d850196a8ad2e1344d2ea77f0962/AndroidManifest.xml:17:1-28:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4f762e6d095c799424024f6f33288eb3/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bcbed86eea5e52cb41cee8f6fc8c0da0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/b3c7c7963bdd7461bb5bccc453039b58/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/635a4de43c1f35133ffb7eedcc1b6c4f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/204d4d460a96d88a720daa8adefefe97/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/b528ee785e164628a8b8372eea02a724/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d5c8fad86581b3379326fece9cf6a103/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d996ba998750477ff6d49dd58f45b86c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/0bd396d4eab0cddef5370f2612cddc7f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/47c64460b1e481f7e9548a6228a4aa4c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-45:12
+	package
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:2:5-36
+	android:versionName
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:11:5-43:19
+MERGED from [com.android.support:support-v13:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/166b6b70f069ac048f6d04e3855277b9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/166b6b70f069ac048f6d04e3855277b9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/ca4ef2fe12a34bd3d20379512d9fd9d5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/ca4ef2fe12a34bd3d20379512d9fd9d5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/4e6109373eb237ae0f625f568832133f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/4e6109373eb237ae0f625f568832133f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/c9865c7587c09d414d41da0d9e10a0a7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/c9865c7587c09d414d41da0d9e10a0a7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/830c363e813d3ed9283b8d5b69a19f13/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/830c363e813d3ed9283b8d5b69a19f13/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/711429c810cba6b5f3761bbb129c71cc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/711429c810cba6b5f3761bbb129c71cc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/04c7d850196a8ad2e1344d2ea77f0962/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/04c7d850196a8ad2e1344d2ea77f0962/AndroidManifest.xml:26:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4f762e6d095c799424024f6f33288eb3/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4f762e6d095c799424024f6f33288eb3/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bcbed86eea5e52cb41cee8f6fc8c0da0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bcbed86eea5e52cb41cee8f6fc8c0da0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/b3c7c7963bdd7461bb5bccc453039b58/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/b3c7c7963bdd7461bb5bccc453039b58/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/635a4de43c1f35133ffb7eedcc1b6c4f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/635a4de43c1f35133ffb7eedcc1b6c4f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/204d4d460a96d88a720daa8adefefe97/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/204d4d460a96d88a720daa8adefefe97/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/b528ee785e164628a8b8372eea02a724/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/b528ee785e164628a8b8372eea02a724/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d5c8fad86581b3379326fece9cf6a103/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d5c8fad86581b3379326fece9cf6a103/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d996ba998750477ff6d49dd58f45b86c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d996ba998750477ff6d49dd58f45b86c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/0bd396d4eab0cddef5370f2612cddc7f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/0bd396d4eab0cddef5370f2612cddc7f/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:15:9-43
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:18:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.xyzreader.ui.ArticleActivity
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:26:9-32:20
+	android:parentActivityName
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:27:13-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:29:13-31:59
+	android:value
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:31:17-56
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:30:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:35:13-48
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:38:9-41:40
+	android:authorities
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:40:13-56
+	android:exported
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:39:13-47
+uses-sdk
+INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/166b6b70f069ac048f6d04e3855277b9/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/166b6b70f069ac048f6d04e3855277b9/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/ca4ef2fe12a34bd3d20379512d9fd9d5/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/ca4ef2fe12a34bd3d20379512d9fd9d5/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/4e6109373eb237ae0f625f568832133f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/4e6109373eb237ae0f625f568832133f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/c9865c7587c09d414d41da0d9e10a0a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/c9865c7587c09d414d41da0d9e10a0a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/830c363e813d3ed9283b8d5b69a19f13/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/830c363e813d3ed9283b8d5b69a19f13/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/711429c810cba6b5f3761bbb129c71cc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/711429c810cba6b5f3761bbb129c71cc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/50ac9de0b741b5f28234613fda8adeb8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/50ac9de0b741b5f28234613fda8adeb8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/04c7d850196a8ad2e1344d2ea77f0962/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/04c7d850196a8ad2e1344d2ea77f0962/AndroidManifest.xml:20:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4f762e6d095c799424024f6f33288eb3/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4f762e6d095c799424024f6f33288eb3/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bcbed86eea5e52cb41cee8f6fc8c0da0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bcbed86eea5e52cb41cee8f6fc8c0da0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/b3c7c7963bdd7461bb5bccc453039b58/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/b3c7c7963bdd7461bb5bccc453039b58/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/635a4de43c1f35133ffb7eedcc1b6c4f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/635a4de43c1f35133ffb7eedcc1b6c4f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/204d4d460a96d88a720daa8adefefe97/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/204d4d460a96d88a720daa8adefefe97/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/b528ee785e164628a8b8372eea02a724/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/b528ee785e164628a8b8372eea02a724/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d5c8fad86581b3379326fece9cf6a103/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d5c8fad86581b3379326fece9cf6a103/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d996ba998750477ff6d49dd58f45b86c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d996ba998750477ff6d49dd58f45b86c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/0bd396d4eab0cddef5370f2612cddc7f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/0bd396d4eab0cddef5370f2612cddc7f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/47c64460b1e481f7e9548a6228a4aa4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/47c64460b1e481f7e9548a6228a4aa4c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/166b6b70f069ac048f6d04e3855277b9/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/Paulo/Documents/nanodegrees/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/166b6b70f069ac048f6d04e3855277b9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/ca4ef2fe12a34bd3d20379512d9fd9d5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/ca4ef2fe12a34bd3d20379512d9fd9d5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/4e6109373eb237ae0f625f568832133f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/4e6109373eb237ae0f625f568832133f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/c9865c7587c09d414d41da0d9e10a0a7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/c9865c7587c09d414d41da0d9e10a0a7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/830c363e813d3ed9283b8d5b69a19f13/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/830c363e813d3ed9283b8d5b69a19f13/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/711429c810cba6b5f3761bbb129c71cc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/711429c810cba6b5f3761bbb129c71cc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/50ac9de0b741b5f28234613fda8adeb8/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/50ac9de0b741b5f28234613fda8adeb8/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/04c7d850196a8ad2e1344d2ea77f0962/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/04c7d850196a8ad2e1344d2ea77f0962/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/b3c7c7963bdd7461bb5bccc453039b58/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/b3c7c7963bdd7461bb5bccc453039b58/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/635a4de43c1f35133ffb7eedcc1b6c4f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/635a4de43c1f35133ffb7eedcc1b6c4f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/204d4d460a96d88a720daa8adefefe97/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/204d4d460a96d88a720daa8adefefe97/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/b528ee785e164628a8b8372eea02a724/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/b528ee785e164628a8b8372eea02a724/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d5c8fad86581b3379326fece9cf6a103/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d5c8fad86581b3379326fece9cf6a103/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d996ba998750477ff6d49dd58f45b86c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d996ba998750477ff6d49dd58f45b86c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/0bd396d4eab0cddef5370f2612cddc7f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/0bd396d4eab0cddef5370f2612cddc7f/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/166b6b70f069ac048f6d04e3855277b9/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.0] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/166b6b70f069ac048f6d04e3855277b9/AndroidManifest.xml:26:9-47
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4f762e6d095c799424024f6f33288eb3/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4f762e6d095c799424024f6f33288eb3/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4f762e6d095c799424024f6f33288eb3/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/Paulo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4f762e6d095c799424024f6f33288eb3/AndroidManifest.xml:9:13-64
